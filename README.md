@@ -1,4 +1,4 @@
-# 巨魔工具 Pro
+# [巨魔商店 & 巨魔工具 Pro](https://ios.ttkmm.com "巨魔商店")
 
 
 ## 抖音插件
